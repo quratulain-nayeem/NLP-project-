@@ -28,7 +28,7 @@ html, body,
     font-family: 'DM Sans', sans-serif !important;
 }
 .block-container {
-    padding: 0 3rem 4rem 3rem !important;
+    padding: 0 5rem 5rem 5rem !important;
     max-width: 100% !important;
 }
 #MainMenu, footer, [data-testid="stHeader"],
@@ -60,7 +60,7 @@ html { scrollbar-color: #8B1A1A #080808; }
 }
 .ri-logo {
     font-family: 'Playfair Display', serif;
-    font-size: 2rem;
+    font-size: 2.4rem;
     font-weight: 900;
     color: #f0ece4;
     letter-spacing: -0.02em;
@@ -68,7 +68,7 @@ html { scrollbar-color: #8B1A1A #080808; }
 }
 .ri-logo em { font-style: italic; color: #C9A84C; }
 .ri-sub {
-    font-size: 0.72rem;
+    font-size: 0.82rem;
     color: #555;
     margin-top: 0.35rem;
     letter-spacing: 0.12em;
@@ -382,7 +382,7 @@ html { scrollbar-color: #8B1A1A #080808; }
 }
 .landing-headline {
     font-family: 'Playfair Display', serif;
-    font-size: 3.2rem;
+    font-size: 3.8rem;
     font-weight: 900;
     color: #f0ece4;
     line-height: 1.18;
